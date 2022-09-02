@@ -1,4 +1,4 @@
 __pycache__/
-cert.perm/
+cert.pem
 intermediate_output/
 .DS_Store
